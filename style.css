@@ -158,7 +158,8 @@ body{
     margin-left: 20%;
     margin-right: 20%;
     background-color: wheat;
-    
+    display: flex;
+    padding-left: 14%;
 }
 input
 {
@@ -166,6 +167,7 @@ input
     width: 300px;
     border-radius: 5px;
     border: none;
+    
 }
 .submit{
     height:40px;
@@ -178,6 +180,7 @@ input
     font-weight: 700;
     padding: 10px;
     font-size: 15px;
+    
 }
 footer{
     text-align: center;
